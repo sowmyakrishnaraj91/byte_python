@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jul 19 15:17:37 2018
 
-@author: skrishnaraj
-"""
+try:
+    print("Hello World")
+except:
+    pass
 
-print("Hello World")
+
+import module_using_name
